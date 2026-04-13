@@ -1,6 +1,8 @@
 # depslib dependency file v1.0
-1772548064 source:c:\c++\window\main.cpp
+1775825998 source:c:\c++\window\main.cpp
 	<SFML/Graphics.hpp>
+	<algorithm>
+	<string>
 
 1758144685 c:\c++\sfml-3.0.2\include\sfml\graphics.hpp
 	<SFML/Graphics/BlendMode.hpp>
@@ -513,4 +515,9 @@
 
 1758144685 c:\c++\sfml-3.0.2\include\sfml\system\sleep.hpp
 	<SFML/System/Export.hpp>
+
+1775825998 source:c:\c++\sfml-game\main.cpp
+	<SFML/Graphics.hpp>
+	<algorithm>
+	<string>
 
